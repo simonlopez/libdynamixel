@@ -6,3 +6,9 @@ build/
 
 # Python compiled files
 *.pyc
+
+#Cmake things
+CMakeFiles/
+cmake_install.cmake
+Makefile
+libdynamixel.a
